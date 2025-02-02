@@ -1,8 +1,8 @@
 ## Apollo Health Care Data Pipeline using Azure Data Factory
-Introduction
+# Introduction
 The Apollo Health Care project aims to build a centralized data repository that serves as a single source of truth for Data Analytics and Data Science teams. This centralized table adheres to the Medallion Architecture (Bronze, Silver, and Gold layers), ensuring scalability, data integrity, and optimized performance.
 
-Business Requirement Document (BRD)
+### Business Requirement Document (BRD)
 Project Objective
 The objective of this project is to build a centralized data repository that serves as a single source of truth for Data Analytics and Data Science teams.
 
